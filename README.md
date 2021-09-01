@@ -10,7 +10,7 @@
 * `git clone https://github.com/AnibalGthub/saycheese1.2.git`
 * `cd saycheese1.2`
 * `bash install.sh`
-* `bash bash saycheese`
+* `bash saycheese`
 
 # No funciona por ahora en Termux
 
